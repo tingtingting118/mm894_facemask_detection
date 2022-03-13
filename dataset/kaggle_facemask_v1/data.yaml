@@ -6,4 +6,4 @@ test: ../mm894_facemask_detection/dataset/kaggle_facemask_v1/test
 nc: 2
 
 # class names
-names: ['0', '1']
+names: ['No Mask', 'With Mask']

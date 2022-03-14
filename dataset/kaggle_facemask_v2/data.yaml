@@ -1,6 +1,6 @@
-train: ../mm894_facemask_detection/dataset/kaggle_facemask_v1/train
-val: ../mm894_facemask_detection/dataset/kaggle_facemask_v1/valid
-test: ../mm894_facemask_detection/dataset/kaggle_facemask_v1/test
+train: ../mm894_facemask_detection/dataset/kaggle_facemask_v2/train
+val: ../mm894_facemask_detection/dataset/kaggle_facemask_v2/valid
+test: ../mm894_facemask_detection/dataset/kaggle_facemask_v2/test
 
 # number of classes
 nc: 2

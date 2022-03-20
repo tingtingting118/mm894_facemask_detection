@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>side-view-male-doctor-man-260nw-1680884008_jpg.rf.9ae148b1f8ededb77cf70735f63c8f63.jpg</filename>
+	<path>side-view-male-doctor-man-260nw-1680884008_jpg.rf.9ae148b1f8ededb77cf70735f63c8f63.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>217</xmin>
+			<xmax>298</xmax>
+			<ymin>18</ymin>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

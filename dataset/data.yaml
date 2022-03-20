@@ -1,0 +1,9 @@
+train: ../mm894_facemask_detection/dataset/images/train
+val: ../mm894_facemask_detection/dataset/images/val
+test: ../mm894_facemask_detection/dataset/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['No Mask', 'With Mask']
